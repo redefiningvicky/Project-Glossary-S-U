@@ -179,3 +179,15 @@
   <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pdf">PDF</a> •
   <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pptx">PPTX</a>
 </p>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
