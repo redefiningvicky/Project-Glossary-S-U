@@ -110,6 +110,33 @@
 <br>
 
 <h3>
+  🪞
+  <a href="https://github.com/redefiningvicky/The-Looking-Glass">
+    The Looking Glass
+  </a>
+</h3>
+
+<p>
+  A quiet mirror to what we fear, holding the key while watching it burn away.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/The-Looking-Glass">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/The-Looking-Glass/">
+    Enter the Mirror
+  </a>
+</p>
+
+<br>
+
+<h3>
   ⚡
   <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice">
     The Power of One Voice
