@@ -25,7 +25,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://static-soul-tv.lovable.app/">
+  <a href="https://redefiningvicky.github.io/Static-Soul-TV/">
     Launch TV
   </a>
 </p>
